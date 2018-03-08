@@ -1,0 +1,8 @@
+button.grid-item {
+  width: 15vw;
+  height: 15vw;
+}
+
+div#grid-container {
+  display: none;
+}
